@@ -8,4 +8,8 @@ public class SquareMain {
     {
         return side*side;
     }
+
+    public double perimeterOfSquare() {
+        return 4*side;
+    }
 }
